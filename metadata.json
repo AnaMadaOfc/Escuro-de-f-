@@ -1,0 +1,7 @@
+{
+  "name": " Escudo de Fé",
+  "description": "Uma jornada espiritual imersiva para fortalecer a fé, oferecendo reflexões diárias, orações personalizadas e visualizações de vitória inspiradas na luz contra as trevas.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
